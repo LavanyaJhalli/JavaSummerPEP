@@ -7,5 +7,6 @@ public class Operator {
 		int c=452;
 		System.out.println(a<c&&a<b);
 		System.out.println(a>c||c>b);
+		System.out.println("hello");
 	}
 }
